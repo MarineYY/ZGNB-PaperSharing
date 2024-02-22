@@ -6,15 +6,15 @@
 
 - The next paper should be selected in the meeting.
 
-|      | Data      | Conference | Title                                                        | Speaker       |      |
-| ---- | --------- | ---------- | ------------------------------------------------------------ | ------------- | ---- |
-| 1    | 2024.2.8  | ICDE       | enabling efficient cyber threat hunting with cyber threat intelligence | Yangyang Wei  |      |
-| 2    | 2024.2.22 | ICDE       | Scalable Algorithms for Densest Subgraph Discovery           | Mingxiang Shi |      |
-|      |           |            |                                                              |               |      |
-|      |           |            |                                                              |               |      |
-|      |           |            |                                                              |               |      |
-|      |           |            |                                                              |               |      |
-|      |           |            |                                                              |               |      |
-|      |           |            |                                                              |               |      |
-|      |           |            |                                                              |               |      |
+|      | Data      | Conference | Title                                                        | Speaker      |      |
+| ---- | --------- | ---------- | ------------------------------------------------------------ | ------------ | ---- |
+| 1    | 2024.2.8  | ICDE       | Enabling efficient cyber threat hunting with cyber threat intelligence | Yangyang Wei |      |
+| 2    | 2024.2.22 | SIGMOD     | Versatile Equivalences: Speeding up Subgraph Query Processing and Subgraph Matching | Yangyang Wei |      |
+|      |           |            |                                                              |              |      |
+|      |           |            |                                                              |              |      |
+|      |           |            |                                                              |              |      |
+|      |           |            |                                                              |              |      |
+|      |           |            |                                                              |              |      |
+|      |           |            |                                                              |              |      |
+|      |           |            |                                                              |              |      |
 
