@@ -8,27 +8,27 @@
 
 ## Requests
 
-每个人分享论文时，参考论文十问（挑几个），将心得写在会议纪要中：
+Refer to the following questions(choose a few) and write your insights in the `Meeting Minutes` folder:
 
-Q1 论文试图解决什么问题？
+`Q1`: *What problem does the paper attempt to solve?*
 
-Q2 这是否是一个新的问题？
+`Q2` *Is this a new problem?*
 
-Q3 这篇文章要验证一个什么科学假设？
+`Q3` *What scientific hypothesis is the paper trying to validate?*
 
-Q4 有哪些相关研究？如何归类？谁是这一课题在领域内值得关注的研究员？
+`Q4` *What are the related studies? How can they be categorized? Who are the noteworthy researchers in this field?*
 
-Q5 论文中提到的解决方案之关键是什么？
+`Q5` *What is key to the solution proposed in the paper?*
 
-Q6 论文中的实验是如何设计的？
+`Q6` *How is the experiment in the paper designed?*
 
-Q7 用于定量评估的数据集是什么？代码有没有开源？
+`Q7` *What dataset is used for quantitative evaluation? Is the code open-sourced?*
 
-Q8 论文中的实验及结果有没有很好地支持需要验证的科学假设？
+`Q8` *Do the experiments and results in the paper adequately support the scientific hypothesis that needs validation?*
 
-Q9 这篇论文到底有什么贡献？
+`Q9` *What contribution does the paper make?*
 
-Q10 下一步呢？有什么工作可以继续深入？
+`Q10` *What's next? What work can be further pursued?*
 
 ## Appendix
 
