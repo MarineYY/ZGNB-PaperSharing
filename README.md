@@ -38,7 +38,7 @@ Refer to the following questions(choose a few) and write your insights in the `M
 | 2    | 2024.2.22 | SIGMOD     | Versatile Equivalences: Speeding up Subgraph Query Processing and Subgraph Matching | Yangyang Wei  |      |
 | 3    | 2024.2.29 | PAIS       | A survey of continuous subgraph matching for dynamic graphs  | Mingxiang Shi |      |
 | 4    | 2024.3.7  | ISSTA      | API2Vec: Learning Representations of API Sequences for Malware Detection|  Yuqiao Gu  |      |
-|      |           |            |                                                              |               |      |
+| 5    | 2024.3.14 | RAID       | Looking Beyond IoCs Automatically Extracting Attack Patterns from External CTI| Jiahui Wang |      |
 |      |           |            |                                                              |               |      |
 |      |           |            |                                                              |               |      |
 |      |           |            |                                                              |               |      |
