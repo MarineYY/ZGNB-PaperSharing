@@ -39,7 +39,7 @@ Refer to the following questions(choose a few) and write your insights in the `M
 | 3    | 2024.2.29 | PAIS       | A survey of continuous subgraph matching for dynamic graphs  | Mingxiang Shi |      |
 | 4    | 2024.3.7  | ISSTA      | API2Vec: Learning Representations of API Sequences for Malware Detection|  Yuqiao Gu  |      |
 | 5    | 2024.3.14 | RAID       | Looking Beyond IoCs Automatically Extracting Attack Patterns from External CTI| Jiahui Wang |      |
-|      |           |            |                                                              |               |      |
+| 6    | 2024.3.21 |            | Automated Adversary Emulation: A Case for Planning and Acting with Unknowns | Yangyang Wei  |      |
 |      |           |            |                                                              |               |      |
 |      |           |            |                                                              |               |      |
 |      |           |            |                                                              |               |      |
