@@ -40,7 +40,7 @@ Refer to the following questions(choose a few) and write your insights in the `M
 | 4    | 2024.3.7  | ISSTA      | API2Vec: Learning Representations of API Sequences for Malware Detection|  Yuqiao Gu  |      |
 | 5    | 2024.3.14 | RAID       | Looking Beyond IoCs Automatically Extracting Attack Patterns from External CTI| Jiahui Wang |      |
 | 6    | 2024.3.21 |            | Automated Adversary Emulation: A Case for Planning and Acting with Unknowns | Yangyang Wei  |      |
-|      |           |            |                                                              |               |      |
+| 7    | 2024.3.28 | Computers&Security | Cyber Ranges and Security Testbeds: Scenarios, Functions, Tools and Architecture  | Yuqiao Gu    |      |
 |      |           |            |                                                              |               |      |
 |      |           |            |                                                              |               |      |
 
