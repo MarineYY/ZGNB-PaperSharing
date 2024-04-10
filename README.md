@@ -42,8 +42,6 @@ Refer to the following questions(choose a few) and write your insights in the `M
 | 6    | 2024.3.21 |            | Automated Adversary Emulation: A Case for Planning and Acting with Unknowns | Yangyang Wei  |      |
 | 7    | 2024.3.28 | Computers&Security | Cyber Ranges and Security Testbeds: Scenarios, Functions, Tools and Architecture  | Yuqiao Gu    |      |
 | 8    |   | S&P | P4CONTROL: Line-Rate Cross-Host Attack Prevention via In-Network Information Flow Control Enabled by Programmable Switches and eBPF  | Mingxiang Shi    |      |
+| 9    | 2024.4.11 | CSET       | APTGen: An Approach towards Generating Practical Dataset Labelled with Targeted Attack Sequences | Jiahui Wang |      |
 |      |           |            |                                                              |               |      |
-|      |           |            |                                                              |               |      |
-
-
 
