@@ -44,4 +44,4 @@ Refer to the following questions(choose a few) and write your insights in the `M
 | 8    |   | S&P | P4CONTROL: Line-Rate Cross-Host Attack Prevention via In-Network Information Flow Control Enabled by Programmable Switches and eBPF  | Mingxiang Shi    |      |
 | 9    | 2024.4.11 | CSET       | APTGen: An Approach towards Generating Practical Dataset Labelled with Targeted Attack Sequences | Jiahui Wang |      |
 | 10   | 2024.4.18 | NOMS       | Cloud-based Testbed for Simulation of Cyber Attacks  | Yangyang Wei  |      |
-| 11   | 2024.4.19 | Sensors      | Cloud-based Testbed for Simulation of Cyber Attacks  | Yuqiao Gu  |      |
+| 11   | 2024.4.19 | Sensors      | A Review of Cyber-Ranges and Test-Beds:Current and Future Trends  | Yuqiao Gu  |      |
