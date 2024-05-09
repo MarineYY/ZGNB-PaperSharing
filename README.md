@@ -47,3 +47,7 @@ Refer to the following questions(choose a few) and write your insights in the `M
 | 11   |   | Sensors      | A Review of Cyber-Ranges and Test-Beds:Current and Future Trends  | Yuqiao Gu  |      |
 | 12   | 2024.4.25 | USENIX Security | SMARTCOOKIE: Blocking Large-Scale SYN Floods with a Split-Proxy Defense on Programmable Data Planes  | Mingxiang Shi  |      |
 | 13   | 2024.4.25 | ACCESS | A Master Attack Methodology for an AI-Based Automated Attack Planner for Smart Cities  | Jiahui Wang  |      |
+| 14 | 2024.5.9 | S&P | FLASH: A Comprehensive Approach to Intrusion Detection via Provenance Graph Representation Learning | Yangyang Wei | |
+
+
+
