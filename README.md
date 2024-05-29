@@ -32,7 +32,7 @@ Refer to the following questions(choose a few) and write your insights in the `M
 
 ## Appendix
 
-|      | Data      | Conference | Title                                                        | Speaker       |      |
+|      | Date      | Conference | Title                                                        | Speaker       |      |
 | ---- | --------- | ---------- | ------------------------------------------------------------ | ------------- | ---- |
 | 1    | 2024.2.8  | ICDE       | Enabling efficient cyber threat hunting with cyber threat intelligence | Yangyang Wei  |      |
 | 2    | 2024.2.22 | SIGMOD     | Versatile Equivalences: Speeding up Subgraph Query Processing and Subgraph Matching | Yangyang Wei  |      |
@@ -48,7 +48,7 @@ Refer to the following questions(choose a few) and write your insights in the `M
 | 12   | 2024.4.25 | USENIX Security | SMARTCOOKIE: Blocking Large-Scale SYN Floods with a Split-Proxy Defense on Programmable Data Planes  | Mingxiang Shi  |      |
 | 13   | 2024.4.25 | ACCESS | A Master Attack Methodology for an AI-Based Automated Attack Planner for Smart Cities  | Jiahui Wang  |      |
 | 14 | 2024.5.9 | S&P | FLASH: A Comprehensive Approach to Intrusion Detection via Provenance Graph Representation Learning | Yangyang Wei | |
-| 15 | 2024.5.24 | Arxiv | You Cannot Escape Me: Detecting Evasions of SIEM Rules in Enterprise Networks | Jiahui Wang | |
-
+| 15 | 2024.5.16 | USENIX Security | Evading Provenance-Based ML Detectors with Adversarial System Actions | Yuqiao Gu | |
+| 16 | 2024.5.24 | Arxiv | You Cannot Escape Me: Detecting Evasions of SIEM Rules in Enterprise Networks | Jiahui Wang | |
 
 
