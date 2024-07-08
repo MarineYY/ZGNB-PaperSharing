@@ -51,7 +51,7 @@ Refer to the following questions(choose a few) and write your insights in the `M
 | 15 | 2024.5.16 | USENIX Security | Evading Provenance-Based ML Detectors with Adversarial System Actions | Yuqiao Gu | |
 | 16 | 2024.5.24 | Arxiv | You Cannot Escape Me: Detecting Evasions of SIEM Rules in Enterprise Networks | Jiahui Wang | |
 | 17 | 2024.6.6 | arXiv | Large Language Models for Cyber Security: A Systematic Literature Review | YangyangWei | |
-| 18 | 2024.6.13 | xxx | xxx | Yuqiao Gu | |
+| 18 | 2024.6.13 | IEEE S&P 24 | Revisiting Automotive Attack Surfaces:a Practitioners’ Perspective | Yuqiao Gu | |
 | 19 | 2024.6.20 | arXiv | LLMs as Hackers: Autonomous Linux Privilege Escalation Attacks | Jiahui Wang | |
 | 20 | 2024.7.4 | arXiv | Virtual Context: Enhancing Jailbreak Attacks with Special Token Injection | Yangyang Wei | |
 
