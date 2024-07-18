@@ -54,5 +54,6 @@ Refer to the following questions(choose a few) and write your insights in the `M
 | 18 | 2024.6.13 | IEEE S&P 24 | Revisiting Automotive Attack Surfaces:a Practitioners’ Perspective | Yuqiao Gu | |
 | 19 | 2024.6.20 | arXiv | LLMs as Hackers: Autonomous Linux Privilege Escalation Attacks | Jiahui Wang | |
 | 20 | 2024.7.4 | arXiv | Virtual Context: Enhancing Jailbreak Attacks with Special Token Injection | Yangyang Wei | |
+| 21 | 2024.7.18 | IEEE S&P 21 | Survivalism: Systematic Analysis of Windows Malware Living-Off-The-Land | Jiahui Wang | |
 
 
